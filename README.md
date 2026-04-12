@@ -1,4 +1,4 @@
-###👋 Hi, I'm Vivek Vaghela!
+### 👋 Hi, I'm Vivek Vaghela!
 
 I am a passionate Backend Developer currently pursuing my Diploma at Government Polytechnic, Rajkot. My core expertise lies in Python & Django, and I am actively bridging the gap between web development and Artificial Intelligence (AI/ML). I love building scalable backend systems and integrating them with intelligent data models to solve real-world problems.
 
@@ -53,3 +53,5 @@ I am a passionate Backend Developer currently pursuing my Diploma at Government 
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
+### 📊 GitHub Stats:
