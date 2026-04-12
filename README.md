@@ -5,6 +5,7 @@ I am a passionate Backend Developer currently pursuing my Diploma at Government 
 ## 🛠️ Technical Skills
 
 ### 🐍 Programming Languages
+
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
