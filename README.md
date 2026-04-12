@@ -4,7 +4,7 @@ I am a passionate Backend Developer currently pursuing my Diploma at Government 
 
 ## 🛠️ Technical Skills
 
-## 🐍 Programming Languages
+### 🐍 Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -55,4 +55,4 @@ I am a passionate Backend Developer currently pursuing my Diploma at Government 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
