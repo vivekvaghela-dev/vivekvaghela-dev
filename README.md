@@ -66,12 +66,6 @@
  
 ---
  
-### 💎 [Jewellery Website](https://github.com/6355492210/Jewelleres)
-> Complete frontend website for a jewellery business
-- **Tech:** `HTML5` `CSS3` `Bootstrap` `JavaScript`
- 
----
- 
 ## 📊 GitHub Stats
  
 ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=6355492210&show_icons=true&theme=tokyonight&hide_border=true)
