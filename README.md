@@ -1,58 +1,101 @@
-### 👋 Hi, I'm Vivek Vaghela!
-
-I am a passionate Backend Developer currently pursuing my Diploma at Government Polytechnic, Rajkot. My core expertise lies in Python & Django, and I am actively bridging the gap between web development and Artificial Intelligence (AI/ML). I love building scalable backend systems and integrating them with intelligent data models to solve real-world problems.
-
-## 🛠️ Technical Skills
-
-### 🐍 Programming Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-### ⚙️ Backend & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
-</p>
-
-### 📊 Data Science & Handling
-<p align="left">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/json-5E5E5E?style=for-the-badge&logo=json&logoColor=white" alt="JSON Parsing" />
-  <img src="https://img.shields.io/badge/jinja-white?style=for-the-badge&logo=jinja&logoColor=black" alt="Jinja2" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-### 🎨 Frontend Essentials
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap5" />
-</p>
-
-### 🛠️ DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-### 💻 Environments
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-## 📊 GitHub Stats:
+# Hi there, I'm Vivek Vaghela 👋
+ 
+### 🐍 Python & Django Developer | Fresher | Rajkot, Gujarat
+ 
+---
+ 
+## 🚀 About Me
+ 
+- 🎯 Passionate **Python & Django Developer** actively looking for fresher opportunities
+- 🌱 Currently learning **Django REST Framework**, **JWT Authentication** & **Deployment**
+- ⚡ I love building real-world backend projects and solving problems with clean code
+- 📍 Based in **Rajkot, Gujarat** — open to roles in **Ahmedabad & Remote**
+- 💬 Ask me about **Python, Django, DRF, MySQL, REST APIs**
+ 
+---
+ 
+## 🛠️ Tech Stack
+ 
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+ 
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+ 
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ 
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ 
+---
+ 
+## 🏆 Projects
+ 
+### 🛒 [Django E-Commerce Web App](https://github.com/6355492210/django-ecommerce)
+> Full-featured online shopping platform built with Django & MySQL
+- ✅ User Authentication, Product Management, Cart & Orders
+- ✅ Django ORM, Admin Panel, Bootstrap 5 UI
+- **Tech:** `Django` `MySQL` `HTML5` `CSS3` `Bootstrap`
+ 
+---
+ 
+### 🌦️ [Flask Weather App](https://github.com/6355492210/flask-weather-app)
+> Dockerized weather app with real-time data from OpenWeather API
+- ✅ REST API Integration, Docker + Gunicorn deployment
+- ✅ Environment variable security with `.env`
+- **Tech:** `Flask` `Docker` `Gunicorn` `OpenWeather API` `Bootstrap`
+ 
+---
+ 
+### 🤖 [Python Automation System](https://github.com/6355492210/python-automation-system)
+> Python-based File Automation with Gmail API Integration
+- ✅ Automated file management system
+- ✅ Gmail API integration for email automation
+- **Tech:** `Python` `Gmail API` `Automation`
+ 
+---
+ 
+### 💎 [Jewellery Website](https://github.com/6355492210/Jewelleres)
+> Complete frontend website for a jewellery business
+- **Tech:** `HTML5` `CSS3` `Bootstrap` `JavaScript`
+ 
+---
+ 
+## 📊 GitHub Stats
+ 
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=6355492210&show_icons=true&theme=tokyonight&hide_border=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6355492210&layout=compact&theme=tokyonight&hide_border=true)
+ 
+---
+ 
+## 🌱 Currently Learning
+ 
+- 🔹 Django REST Framework (DRF) — Serializers, ViewSets, JWT
+- 🔹 API Testing with Postman
+- 🔹 Deploying Django apps on Railway / Render
+- 🔹 Celery for background tasks
+ 
+---
+ 
+## 📫 Connect With Me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaghelavivekm)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/6355492210)
+ 
+---
+ 
+### 💡 Open to Django Developer Fresher roles in Ahmedabad & Remote!
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=6355492210&color=blue&style=flat-square)
