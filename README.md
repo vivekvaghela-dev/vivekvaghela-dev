@@ -2,14 +2,16 @@
  
 ## 🚀 Python(Django) Developer
 
+Python/Django Developer focused on building scalable web applications, robust REST APIs, and reliable backend solutions with clean architecture.
+
 ---
  
 ## 👨‍💻 About Me
  
-• 💼 Python(Django) Developer
-• 🌱 Currently improving Django architecture and performance
-• 🔥 Building production-ready Django Web Applications
-• 📍 Ahmedabad, Gujarat, India
+- 💼 Python(Django) Developer
+- 🌱 Currently improving Django architecture and performance
+- 🔥 Building production-ready Django Web Applications
+- 📍 Ahmedabad, Gujarat, India
 
 ---
 
@@ -42,8 +44,8 @@
 
 ---
 
-LinkedIn: https://www.linkedin.com/in/vaghelavivekm
-Email: vivekvaghela308@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vaghelavivekm
+- Email: vivekvaghela308@gmail.com
 
 ---
  
