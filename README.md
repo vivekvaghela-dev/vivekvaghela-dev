@@ -1,16 +1,15 @@
-# Hi there, I'm Vivek Vaghela 👋
+# Hi 👋, I'm Vivek Vaghela 
  
-### 🐍 Python & Django Developer | Fresher | Ahmedabad, Gujarat
+### 🚀 Python(Django) Developer
  
 ---
  
-## 🚀 About Me
+## 👨‍💻 About Me
  
-- 🎯 Passionate **Python & Django Developer** actively looking for fresher opportunities.
-- 🌱 Currently learning **Django REST Framework**, **JWT Authentication** & **Deployment**
-- ⚡ I love building real-world backend projects and solving problems with clean code
-- 📍 Based in **Ahmedabad, Gujarat** — open to roles in **Ahmedabad & Remote**
-- 💬 Ask me about **Python, Django, DRF, MySQL, REST APIs**
+- 💼 Python(Django) Developer
+- 🌱 Currently improving Django architecture and performance
+- 🔥 Building production-ready Django Web Applications
+- 📍 Ahmedabad, Gujarat, India
  
 ---
  
