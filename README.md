@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vivek Vaghela 
  
-## 🚀 Python(Django) Developer
+## 🚀 Python Developer
 
 Python/Django Developer focused on building scalable web applications, robust REST APIs, and reliable backend solutions with clean architecture.
 
