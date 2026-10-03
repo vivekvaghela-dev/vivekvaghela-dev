@@ -15,13 +15,29 @@
 
 ## 🛠️ Tech Stack
 
-`Python` • `SQL` • `Django` • `Django REST Framework` • `Django ORM` • `REST APIs` • `MySQL` • `SQLite` • `AI Web Application Development` • `Prompt Engineering` • `Docker` • `Git & GitHub`
-
----
+- Python
+- SQL
+- Django
+- Django REST Framework (DRF)
+- Django ORM
+- REST APIs
+- MySQL
+- SQLite
+- AI Web Application Development
+- Prompt Engineering
+- Docker
+- Git & GitHub
 
 ## 🎯 Core Focus
 
-`Backend Development` • `REST API Development` • `Database Design` • `API Integration` • `Clean Architecture` • `Debugging` • `Error Handling`
+- Backend Development
+- REST API Development
+- Database Design
+- API Integration
+- Clean Architecture
+- Debugging
+- Error Handling
+
 ## 📫 Connect With Me
 
 ---
