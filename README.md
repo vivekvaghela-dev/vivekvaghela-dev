@@ -1,7 +1,7 @@
 # Hi 👋, I'm Vivek Vaghela 
  
-### 🚀 Python(Django) Developer
- 
+## 🚀 Python(Django) Developer
+
 ---
  
 ## 👨‍💻 About Me
@@ -10,40 +10,18 @@
 • 🌱 Currently improving Django architecture and performance
 • 🔥 Building production-ready Django Web Applications
 • 📍 Ahmedabad, Gujarat, India
- 
----
-
-## 🛠 Tach Stack
 
 ---
 
-• Python, SQL
-• Django
-• Django REST Framework(DRF) 
-• Django ORM
-• REST APIs 
-• MySQL
-• SQLite
-• AI Web Application Development 
-• Prompt Engineering
-• Docker
-• Git & GitHub
+## 🛠️ Tech Stack
+
+`Python` • `SQL` • `Django` • `Django REST Framework` • `Django ORM` • `REST APIs` • `MySQL` • `SQLite` • `AI Web Application Development` • `Prompt Engineering` • `Docker` • `Git & GitHub`
 
 ---
 
-## Core Focus: 
+## 🎯 Core Focus
 
----
-• Backend Development 
-• REST API Development  
-• Database Design
-• API Integration 
-• Clean Architecture 
-• Debugging 
-• Error Handling
- 
----
- 
+`Backend Development` • `REST API Development` • `Database Design` • `API Integration` • `Clean Architecture` • `Debugging` • `Error Handling`
 ## 📫 Connect With Me
 
 ---
